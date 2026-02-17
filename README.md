@@ -18,12 +18,33 @@ The goal is to understand the data through cleaning, visualization, and statisti
 
 - `EDA_REPORT.ipynb`  
   Jupyter Notebook containing the complete EDA with explanations and visualizations.  
-  > Note: GitHub may sometimes fail to render `.ipynb` files. If that happens, please download and open the notebook locally.
-
 - `README.md`  
   Project documentation.
 
 ---
+## 🚀 How to Run the Project
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/end-to-end-house-price-prediction-ml.git
+cd end-to-end-house-price-prediction-ml
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the Notebook
+
+```bash
+jupyter notebook
+```
+
+Open the notebook and execute all cells step-by-step.
+
 
 ## 🛠️ Tools & Libraries Used
 - Python  
