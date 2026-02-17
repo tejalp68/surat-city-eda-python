@@ -28,7 +28,8 @@ The goal is to understand the data through cleaning, visualization, and statisti
 
 ```bash
 git clone https://github.com/your-username/end-to-end-house-price-prediction-ml.git
-cd end-to-end-house-price-prediction-ml
+cd surat-city-eda-python
+
 ```
 
 ### 2️⃣ Install Dependencies
