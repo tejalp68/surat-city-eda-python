@@ -1,58 +1,99 @@
-# Surat City Exploratory Data Analysis (EDA)
+# 📊 Exploratory Data Analysis (EDA) - Surat Dataset
 
-This project performs **Exploratory Data Analysis (EDA)** on a dataset related to **Surat city** using Python.  
-The goal is to understand the data through cleaning, visualization, and statistical analysis.
-
----
-
-## 📌 Project Overview
-- Data loading and inspection  
-- Handling missing values  
-- Descriptive statistics  
-- Data visualization using plots  
-- Key insights and observations  
+This repository contains an Exploratory Data Analysis (EDA) project performed on the **Surat dataset**.  
+The analysis includes data cleaning, preprocessing, visualization, and extracting meaningful insights from the dataset.
 
 ---
 
-## 📂 Files in this Repository
+## 📂 Repository Structure
 
-- `EDA_REPORT.ipynb`  
-  Jupyter Notebook containing the complete EDA with explanations and visualizations.  
-- `README.md`  
-  Project documentation.
+```
+├── EDA_REPORT.ipynb     # Jupyter Notebook with full analysis (including outputs & visualizations)
+├── EDA_REPORT.py        # Clean Python script version (code only)
+├── surat.csv            # Dataset used for analysis
+└── README.md            # Project documentation
+```
 
 ---
-## 🚀 How to Run the Project
 
-### 1️⃣ Clone the Repository
+## 📌 File Details
 
-```bash
-git clone https://github.com/your-username/end-to-end-house-price-prediction-ml.git
-cd surat-city-eda-python
+### 📘 EDA_REPORT.ipynb  
+Contains complete exploratory data analysis including:
+- Data loading
+- Data cleaning
+- Handling missing values
+- Statistical summary
+- Visualizations
+- Insights
 
-```
+### 📄 EDA_REPORT.py  
+Converted Python script version of the notebook containing only executable code without outputs.
 
-### 2️⃣ Install Dependencies
+### 📊 surat.csv  
+Dataset used for performing exploratory data analysis.
 
-```bash
-pip install -r requirements.txt
-```
+### 📑 README.md  
+Documentation explaining project structure and details.
 
-### 3️⃣ Run the Notebook
+---
 
-```bash
-jupyter notebook
-```
+## 🔎 Project Objectives
 
-Open the notebook and execute all cells step-by-step.
+- Understand the structure of the dataset  
+- Clean and preprocess the data  
+- Analyze patterns and relationships  
+- Generate meaningful insights  
+- Visualize trends using plots  
 
+---
 
-## 🛠️ Tools & Libraries Used
+## 🛠 Technologies Used
+
 - Python  
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Jupyter Notebook  
 
 ---
+
+## 🚀 How to Run
+
+1️⃣ Install required libraries:
+
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+2️⃣ Run the Python script:
+
+```bash
+python EDA_REPORT.py
+```
+
+OR open the notebook:
+
+```bash
+jupyter notebook EDA_REPORT.ipynb
+```
+
+---
+
+## 🎯 Purpose of This Project
+
+- Practice real-world data analysis  
+- Strengthen data cleaning skills  
+- Improve visualization techniques  
+- Build a strong foundation in Data Science  
+
+---
+
+## 👩‍💻 Author
+
+**Tejal Pagar**  
+Python & Data Science Learner  
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
