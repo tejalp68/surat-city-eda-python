@@ -93,7 +93,7 @@ jupyter notebook EDA_REPORT.ipynb
 
 **Tejal Pagar**  
 Python & Data Science Learner     
-📍 INDIA
+📍INDIA
 
 ---
 
