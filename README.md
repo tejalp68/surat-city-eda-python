@@ -92,7 +92,8 @@ jupyter notebook EDA_REPORT.ipynb
 ## 👩‍💻 Author
 
 **Tejal Pagar**  
-Python & Data Science Learner  
+Python & Data Science Learner     
+📍 INDIA
 
 ---
 
