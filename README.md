@@ -18,7 +18,7 @@ The analysis includes data cleaning, preprocessing, visualization, and extractin
 
 ## 📌 File Details
 
-### 📘 EDA_REPORT.ipynb  
+### 📘 Surat_housing_data_Eda.ipynb  
 Contains complete exploratory data analysis including:
 - Data loading
 - Data cleaning
@@ -27,7 +27,7 @@ Contains complete exploratory data analysis including:
 - Visualizations
 - Insights
 
-### 📄 EDA_REPORT.py  
+### 📄 Surat_housing_data_Eda.py  
 Converted Python script version of the notebook containing only executable code without outputs.
 
 ### 📊 surat.csv  
@@ -69,13 +69,13 @@ pip install pandas numpy matplotlib seaborn
 2️⃣ Run the Python script:
 
 ```bash
-python EDA_REPORT.py
+python Surat_housing_data_Eda.py
 ```
 
 OR open the notebook:
 
 ```bash
-jupyter notebook EDA_REPORT.ipynb
+jupyter notebook Surat_housing_data_Eda.ipynb
 ```
 
 ---
