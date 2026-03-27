@@ -8,8 +8,8 @@ The analysis includes data cleaning, preprocessing, visualization, and extractin
 ## 📂 Repository Structure
 
 ```
-├── EDA_REPORT.ipynb     # Jupyter Notebook with full analysis (including outputs & visualizations)
-├── EDA_REPORT.py        # Clean Python script version (code only)
+├── Surat_housing_data_Eda.ipynb     # Jupyter Notebook with full analysis (including outputs & visualizations)
+├── Surat_housing_data_Eda.py        # Clean Python script version (code only)
 ├── surat.csv            # Dataset used for analysis
 └── README.md            # Project documentation
 ```
